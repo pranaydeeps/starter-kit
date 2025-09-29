@@ -4,7 +4,7 @@ Starter Scripts for New Members of LT3
 
 ## To-Do List
 
-- [ ] Fine-tuning BERT-like models with HF
+- [x] Fine-tuning BERT-like models with HF
 - [ ] Inference of Decoder models like Llama with HF
 - [ ] In-context learning and few-shot learning for Llama with HF
 - [ ] Script demonstrating how to check standard eval metrics (F1, prec, rec)
