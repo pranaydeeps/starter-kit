@@ -4,18 +4,21 @@ Starter Scripts for New Members of LT3
 
 ## To-Do List
 
-- [x] Fine-tuning BERT-like models with HF
-- [x] Inference of Decoder models like Llama with HF
-- [x] In-context learning and few-shot learning for Llama with HF
-- [ ] Script demonstrating how to check standard eval metrics (F1, prec, rec)
-- [ ] Script for embedding sentences and documents using a model
-- [ ] Basic Data Viz scripts using T-SNE, PCA, LDA, Auto-encoders
-- [x] Simple IAA calculation scripts
-- [ ] Sample scraping script with Scrapy and BeautifulSoup
-- [ ] Scripts for using common APIs like Twitter, YT, etc
-- [ ] MT Scripts
-    - [ ] Training, Fine-tuning
+- [x] Fine-tuning BERT-like models with HF (Pranay)
+- [x] Inference of Decoder models like Llama with HF (Aaron)
+- [x] In-context learning and few-shot learning for Llama with HF (Aaron)
+- [ ] Script demonstrating how to check standard eval metrics (F1, prec, rec) (Pranay)
+- [ ] Script for embedding sentences and documents using a model (Pranay)
+- [ ] Basic Data Viz scripts using T-SNE, PCA, LDA, Auto-encoders (Pranay)
+- [ ] Simple IAA calculation scripts (Aaron)
+- [ ] Sample scraping script with Scrapy and BeautifulSoup (Pranay)
+- [ ] Scripts for using common APIs like Twitter, YT, Reddit etc (Remove?)
+- [ ] MT Scripts (Thomas)
+    - [ ] Training, Fine-tuning Encoder
+    - [ ] Training, Finet-tuning Decoder
     - [ ] Inference
     - [ ] Eval****
+- [ ] Redirect to Thomas for HPC Github
+    - [ ] Scaling Scripts
 
 
