@@ -10,7 +10,7 @@ Starter Scripts for New Members of LT3
 - [ ] Script demonstrating how to check standard eval metrics (F1, prec, rec) (Pranay)
 - [ ] Script for embedding sentences and documents using a model (Pranay)
 - [ ] Basic Data Viz scripts using T-SNE, PCA, LDA, Auto-encoders (Pranay)
-- [ ] Simple IAA calculation scripts (Aaron)
+- [x] Simple IAA calculation scripts (Aaron)
 - [ ] Sample scraping script with Scrapy and BeautifulSoup (Pranay)
 - [ ] Scripts for using common APIs like Twitter, YT, Reddit etc (Remove?)
 - [ ] MT Scripts (Thomas)
