@@ -1,8 +1,9 @@
 # Starter Kit
+
 Starter Scripts for New Members of LT3
 
 
-## To-Do List
+## In the Pipeline
 
 - [x] Fine-tuning BERT-like models with HF (Pranay)
 - [x] Inference of Decoder models like Llama with HF (Aaron)
@@ -22,3 +23,6 @@ Starter Scripts for New Members of LT3
     - [ ] Scaling Scripts
 
 
+## Request a New Script
+
+- [ ] Sample Script - Name of Requester
