@@ -25,4 +25,4 @@ Starter Scripts for New Members of LT3
 
 ## Request a New Script
 
-- [ ] Sample Script - Name of Requester
+- [ ] Cataloging Experiments with WANDB - Pranay 
