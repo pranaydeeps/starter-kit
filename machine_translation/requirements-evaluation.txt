@@ -1,0 +1,24 @@
+# Requirements for MT Evaluation Notebook
+# Install with: pip install -r requirements-evaluation.txt
+
+# ============ Core Evaluation ============
+# sacrebleu: Standard MT evaluation metrics (BLEU, chrF++, TER)
+sacrebleu>=2.4.0
+
+# ============ Neural Metrics (Optional) ============
+# COMET: Neural evaluation metric with high human correlation
+# Note: Requires ~1.5GB download for model weights
+# Comment out if you only need BLEU/chrF++/TER
+unbabel-comet>=2.2.0
+
+# ============ Data Processing ============
+pandas>=2.0.0
+
+# ============ Tokenization (for spBLEU) ============
+# Required for flores200 tokenization in sacrebleu
+sentencepiece>=0.1.99
+
+# ============ Optional: Visualization ============
+# Uncomment if you want to generate plots
+# matplotlib>=3.7.0
+

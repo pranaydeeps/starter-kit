@@ -1,0 +1,34 @@
+# Requirements for LLM Fine-tuning for Machine Translation
+# Install with: pip install -r requirements.txt
+
+# Core ML libraries
+torch
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Hugging Face ecosystem
+transformers>=4.40.0
+datasets>=2.18.0
+accelerate>=0.28.0
+tokenizers>=0.15.0
+sentencepiece>=0.2.1
+protobuf>=6.33.4
+
+# Parameter-Efficient Fine-Tuning
+peft>=0.10.0
+
+# Training utilities
+trl>=0.8.0
+
+# 4-bit quantization
+bitsandbytes>=0.43.0
+
+# Optional: Evaluation metrics
+sacrebleu>=2.4.0
+
+# Optional: Experiment tracking
+# wandb>=0.16.0
+
+# Jupyter support
+ipywidgets>=8.0.0
+

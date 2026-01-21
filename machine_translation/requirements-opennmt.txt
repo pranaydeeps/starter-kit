@@ -1,0 +1,22 @@
+# Requirements for OpenNMT-py Neural Machine Translation
+# Install with: pip install -r requirements-opennmt.txt
+
+# Core ML libraries
+torch>=2.0.0
+numpy<2
+
+# OpenNMT-py
+OpenNMT-py>=3.5.0
+
+# Data processing
+PyYAML>=6.0
+
+# Optional: Evaluation metrics
+sacrebleu>=2.4.0
+
+# Optional: Sentencepiece tokenization
+sentencepiece>=0.1.99
+
+# Jupyter support
+ipywidgets>=8.0.0
+
