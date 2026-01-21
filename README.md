@@ -14,11 +14,11 @@ Starter Scripts for New Members of LT3
 - [x] Simple IAA calculation scripts (Aaron)
 - [ ] Sample scraping script with Scrapy and BeautifulSoup (Pranay)
 - [ ] Scripts for using common APIs like Twitter, YT, Reddit etc (Remove?)
-- [ ] MT Scripts (Thomas)
-    - [ ] Training, Fine-tuning Encoder
-    - [ ] Training, Finet-tuning Decoder
-    - [ ] Inference
-    - [ ] Eval****
+- [x] MT Scripts (Thomas)
+    - [x] Training, Fine-tuning Encoder
+    - [x] Training, Fine-tuning Decoder
+    - [x] Inference (part of training notebooks)
+    - [x] Eval****
 - [ ] Redirect to Thomas for HPC Github
     - [ ] Scaling Scripts
 
