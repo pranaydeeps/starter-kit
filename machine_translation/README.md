@@ -1,6 +1,6 @@
 # Machine Translation Starter Kit
 
-This directory contains notebooks and utilities for training and evaluating Neural Machine Translation (NMT) models.
+This directory contains notebooks and utilities for training and evaluating Machine Translation (MT) models.
 
 ## 📚 Contents
 
